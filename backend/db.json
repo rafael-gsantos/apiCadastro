@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Rafael",
+      "email": "contato@rafaelgoncalves.tech",
+      "youtube": "https://youtu.be/jt9oRHFpZfs",
+      "id": 1
+    },
+    {
+      "name": "Rafael",
+      "email": "dev@rafaelgoncalves.tech",
+      "youtube": "https://youtu.be/jt9oRHFpZfs\t",
+      "id": 2
+    }
+  ]
+}
