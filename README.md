@@ -14,7 +14,3 @@ Ainda na pasta backend
 npm start
 ```
 **Faça o mesmo processo dentro da pasta frontend**
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-# apiCadastro
