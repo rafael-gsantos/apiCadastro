@@ -1,8 +1,5 @@
 ## Como usar?
- 
-#### Obs
- * Certifique-se de ter todas as variáveis de ambiente configuradas
- 
+
 #### Clone
 ```
 git clone https://github.com/Brendhon/CadastroUsuario.git
